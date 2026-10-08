@@ -1,13 +1,13 @@
 # Dortmund
 
-Dortmund es una ciudad que visite el invierno pasado. Es un lugar muy conocido por su **industria** y su *fútbol*.
+Dortmund es una ciudad que visité el invierno pasado. Es un lugar muy conocido por su **industria** y su *fútbol*.
 
 ## Lugares de interés
 
 #### Un "Top 3" de lugares para visitar:
 
-1. **Signal Iduna Park**: El estadio del *Borussia Dortmund*.
-2. **Dortmunder U**: Un centro de arte con una gran letra U.
+1. **Signal Iduna Park**: El estadio del *Borussia Dortmund*. *Es uno de los mejores estadios que estuve*.
+2. **Dortmunder U**: Un centro de arte con una gran letra U. *Un lugar que recomiendo ir*.
 3. **Westfalenpark**: Un parque muy grande con una torre.
 
 ## Gastronomía
